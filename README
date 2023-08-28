@@ -1,0 +1,3 @@
+DOSCAR_PROCAR*.ipynb file generates the DoS and IPR from the outputs obatined from VASP
+
+VDOS_VIPR*.ipynb generated VDoS and VIPR from the appropriate VASP ouputs. 
